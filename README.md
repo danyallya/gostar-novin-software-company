@@ -10,7 +10,7 @@ This project is a multi-page static website designed to showcase the services, d
 - `index.html` – Main homepage
 - `teams.html` – Team members overview
 - `template.html` – UI components / style guide
-- `departeman.html` – Departments section (note: possibly typo in Persian spelling)
+- `department.html` – Departments section (note: possibly typo in Persian spelling)
 
 All assets are stored in the `/assets` folder.
 
