@@ -1,0 +1,261 @@
+@media screen and (max-width: 1200px) {
+    header .logo-text {
+        margin-top: 11px;
+        font-size: 14px;
+    }
+    #de-process .border {
+        height: 12px;
+    }
+    .top-header div:first-child img {
+        margin-top: 11px;
+    }
+}
+
+@media screen and (max-width: 993px) {
+    header .logo-text {
+        margin-top: 11px;
+        font-size: 14px;
+    }
+    #de-process .border {
+       display: none;
+    }
+    #de-process .circle {
+    display: none;
+    }
+    #de-process .down:nth-child(3):after {
+  display: none;
+    }
+    #de-team .sliders .items .item.active .img {
+        /* width: 165px; */
+        /* height: 165px; */
+        /* margin-bottom: 10px; */
+        height: 150px;
+        margin-bottom: 20px;
+
+        width: 150px;
+
+    }
+
+    #de-solutions .solution {
+        width: 46%;
+        margin-right: 2%;
+        margin-left: 2%;
+    }
+
+    .top-header div:first-child img {
+        margin-top: 11px;
+    }
+
+    header .social-header-box .instagram:hover {
+        background-position: 2px -27px;
+    }
+
+    header .social-header-box .instagram {
+        width: 26px;
+        height: 26px;
+        background-size: 450px;
+        margin-right: 2px;
+    }
+
+    header .social-header-box .facebook {
+        width: 26px;
+        height: 26px;
+        background-size: 450px;
+        background-position: -40px 2px;
+    }
+
+    header .social-header-box .facebook:hover {
+        background-position: -40px -27px;
+    }
+
+    header .social-header-box .twitter {
+        width: 26px;
+        height: 26px;
+        background-size: 450px;
+        background-position: -83px 2px;
+    }
+
+    header .social-header-box .twitter:hover {
+        background-position: -83px -29px;
+    }
+
+    header .social-header-box .telegram {
+        width: 26px;
+        height: 26px;
+        background-size: 450px;
+        background-position: -127px 2px;
+    }
+
+    header .social-header-box .telegram:hover {
+        background-position: -127px -29px;
+    }
+
+    header {
+        height: auto;
+        min-height: 65px;
+    }
+
+    header .item-text {
+        display: none;
+        margin-top: 35px;
+    }
+
+    header .item-text, header .item-text a {
+        width: 100%;
+
+    }
+
+    header .item-text .header-item {
+        width: 100%;
+        clear: both;
+        text-align: center;
+
+    }
+
+    header .contact-item {
+        position: absolute;
+        left: 20px;
+    }
+
+    header .logo-img {
+        padding-left: 0px;
+        position: absolute;
+        right: 60px;
+        padding: 0;
+        width: 60px;
+    }
+
+    header .logo-text {
+        position: absolute;
+        right: 115px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    header .contact-item {
+        width: 77%;
+        padding: 0;
+        left: 0;
+    }
+    #de-one {
+         min-height: 200px;
+         height: auto;
+    }
+    #de-team .sliders .items .item.active .img {
+        /* width: 165px; */
+        /* height: 165px; */
+        /* margin-bottom: 10px; */
+        margin: 0 auto;
+    }
+    #de-project .slide.active .item .img {
+         box-shadow: 0 0 23px 0 rgba(0, 0, 0, 0) !important;
+         /*height: 260px; */
+         margin-bottom: 0px;
+    }
+    #de-project .item .img {
+
+         box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0);
+
+    }
+    #de-one .info {
+        position: static;
+        padding: 35px 25px;
+    }
+
+    #de-register-project input, #de-register-project textarea {
+        width: 100%;
+    }
+
+    #sec-three .news-item {
+        max-height: 800px;
+    }
+
+    #de-campaign .campaign {
+        background-image: none;
+    }
+
+    #de-solutions .solution {
+        width: 44%;
+        font-size: 12px;
+        margin-right: 3%;
+        margin-left: 3%;
+    }
+
+    .special .info {
+        margin-top: 70px;
+    }
+
+    #sec-two .counter-items .item {
+        width: 180px;
+        height: 180px;
+    }
+
+    .circle-color {
+        display: none;
+    }
+
+    #sec-two .counter-items:before {
+        display: none;
+    }
+
+    .content {
+        left: inherit;
+        width: 100%;
+        margin-left: 0;
+        overflow: hidden;
+    }
+
+    footer li {
+        text-align: center;
+    }
+    header .item-text {
+        display: none;
+        margin-top: 45px;
+    }
+}
+
+@media screen and (max-width: 525px) {
+    .special .monitor {
+        display: none;
+    }
+    #content .team-card {
+        margin-top: 120px;
+    }
+
+    #de-solutions .solution {
+        width: 90%;
+        font-size: 15px;
+        margin-right: 5%;
+        margin-left: 5%;
+        /* margin: 17px auto; */
+    }
+
+    .special .info {
+        margin-top: 0px;
+    }
+
+    .special button {
+        outline: 0;
+        border: 0;
+        background-color: #fd5b54;
+        padding: 15px 50px;
+        border-radius: 50px;
+        color: white;
+        font-weight: bold;
+        box-shadow: 0 -3px 12px 0 rgba(0, 0, 0, 0.22);
+    }
+}
+
+@media screen and (max-width: 380px) {
+    #de-solutions .solution {
+        width: 90%;
+        font-size: 13px;
+        margin-right: 5%;
+        margin-left: 5%;
+        /* margin: 17px auto; */
+    }
+
+    header {
+        min-height: 80px;
+    }
+}
