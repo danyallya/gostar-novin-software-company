@@ -1,4 +1,26 @@
-```markdown
+```html
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
+  <div style="flex: 1 1 45%; max-width: 48%; text-align: center;">
+    <img src="https://github.com/danyallya/gostar-novin-software-company/blob/master/template/1.jpg" alt="Homepage Screenshot" width="100%">
+    <p>صفحه اصلی</p>
+  </div>
+  <div style="flex: 1 1 45%; max-width: 48%; text-align: center;">
+    <img src="assets/images/screenshot-teams.jpg" alt="Teams Page Screenshot" width="100%">
+    <p>صفحه تیم‌ها</p>
+  </div>
+  <div style="flex: 1 1 45%; max-width: 48%; text-align: center;">
+    <img src="assets/images/screenshot-template.jpg" alt="Template Page Screenshot" width="100%">
+    <p>صفحه الگوها</p>
+  </div>
+  <div style="flex: 1 1 45%; max-width: 48%; text-align: center;">
+    <img src="assets/images/screenshot-departments.jpg" alt="Departments Page Screenshot" width="100%">
+    <p>صفحه دپارتمان‌ها</p>
+  </div>
+</div>
+
+```
+
+1```markdown
 # Gostar Novin Software Company
 
 A fully custom, responsive website for **Gostar Novin Software Company**, built from scratch using **HTML5**, **CSS3**, and **jQuery** with a unique UI design.
