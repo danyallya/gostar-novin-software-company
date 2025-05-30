@@ -1,4 +1,3 @@
-```html
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
   <div style="flex: 1 1 45%; max-width: 48%; text-align: center;">
     <img src="https://github.com/danyallya/gostar-novin-software-company/blob/master/template/1.jpg" alt="Homepage Screenshot" width="100%">
@@ -18,7 +17,6 @@
   </div>
 </div>
 
-```
 
 1```markdown
 # Gostar Novin Software Company
