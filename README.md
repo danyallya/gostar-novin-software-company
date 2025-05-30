@@ -1,19 +1,19 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
   <div style="flex: 1 1 45%; max-width: 48%; text-align: center;">
-    <img src="https://github.com/danyallya/gostar-novin-software-company/blob/master/template/1.jpg" alt="Homepage Screenshot" width="100%">
     <p>صفحه اصلی</p>
+    <img src="https://github.com/danyallya/gostar-novin-software-company/blob/master/template/1.jpg" alt="Homepage Screenshot" width="100%">
   </div>
   <div style="flex: 1 1 45%; max-width: 48%; text-align: center;">
-    <img src="assets/images/screenshot-teams.jpg" alt="Teams Page Screenshot" width="100%">
     <p>صفحه تیم‌ها</p>
+    <img src="https://github.com/danyallya/gostar-novin-software-company/blob/master/template/2.jpg" alt="Teams Page Screenshot" width="100%">
   </div>
   <div style="flex: 1 1 45%; max-width: 48%; text-align: center;">
-    <img src="assets/images/screenshot-template.jpg" alt="Template Page Screenshot" width="100%">
     <p>صفحه الگوها</p>
+    <img src="https://github.com/danyallya/gostar-novin-software-company/blob/master/template/3.jpg" alt="Template Page Screenshot" width="100%">
   </div>
   <div style="flex: 1 1 45%; max-width: 48%; text-align: center;">
-    <img src="assets/images/screenshot-departments.jpg" alt="Departments Page Screenshot" width="100%">
     <p>صفحه دپارتمان‌ها</p>
+    <img src="https://github.com/danyallya/gostar-novin-software-company/blob/master/template/4.jpg" alt="Departments Page Screenshot" width="100%">
   </div>
 </div>
 
