@@ -18,7 +18,7 @@
 </div>
 
 
-1```markdown
+
 # Gostar Novin Software Company
 
 A fully custom, responsive website for **Gostar Novin Software Company**, built from scratch using **HTML5**, **CSS3**, and **jQuery** with a unique UI design.
@@ -40,6 +40,8 @@ All assets are stored in the `/assets` folder.
 - **jQuery** – Interactive elements and DOM manipulation
 
 ## 📁 Project Structure
+
+```markdown
 gostar-novin-software-company/
 ├── index.html # Homepage
 ├── teams.html # Team members page
